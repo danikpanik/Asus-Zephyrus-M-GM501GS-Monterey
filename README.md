@@ -2,7 +2,7 @@
 
 #
 
-### Clover 🍀 5145 | macOS Monterey 12.2.1
+### Clover 🍀 r5145 | macOS Monterey 12.2.1
 #
 
 
@@ -52,6 +52,7 @@
 
 1. Fill the [SMBIOS](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827) section according to this guide. 
 2. Update BIOS to the latest version
+3. Disable discrete graphics in Windows (otherwise macOS will boot to black screen)
 #
   
 ### 🙏 Credits - 
