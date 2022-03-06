@@ -24,7 +24,9 @@
 * CPU: Intel Core i7-8750H Coffee Lake
 * GPU: Intel UHD 630 (NVIDIA not supported - disabled)
 * RAM: 32GB DDR4
-* Memory: Sabrent 1TB NVME
+* Boot Drive: Mushkin Pilot-E 2TB NVME SSD
+* Storage: Samsung 860 Evo 1TB SATA SSD
+* OS: macOS Catalina, macOS Monterey, Windows 10, Ubuntu 20.04
 * WIFI/Bluetooth: Replaced stock chip with DW1560
 * Camera: USB2.0 HD UVC WebCam
 * Audio/Mic: Realtek HD Audio ALC3328 (ALC294 codec)
