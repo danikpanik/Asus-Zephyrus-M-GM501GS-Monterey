@@ -33,7 +33,8 @@
 * Keyboard & Trackpad - ELAN/SA473I-12A4 (ELAN1201)
 
 ### ❌ Not Working:
-  Keyboard backlight control (can change in Windows)
+*  Keyboard backlight control (can change in Windows)
+*  HDMI port (can't work due to the disabled NVIDIA card)
 #
   
 ### ⚙️ BIOS Settings
